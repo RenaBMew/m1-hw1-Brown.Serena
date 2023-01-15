@@ -11,6 +11,6 @@ I am self taught in HTML and CSS, but have not coded in years, so I need a major
 ## Career Goals ##
 I would like to obtain a career in design/tech.
 - Goals
-    - Brush up on HTML/CSS skills.
-    - Learn the tools used by todays professionals.
-    - Work in the design/tech industry.
+    1. Brush up on HTML/CSS skills.
+    2. Learn the tools used by todays professionals.
+    3. Work in the design/tech industry.
