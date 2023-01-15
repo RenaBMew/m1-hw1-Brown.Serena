@@ -1,2 +1,2 @@
-#Assignment 1
+#Assignment1
 This is Assignment 1
